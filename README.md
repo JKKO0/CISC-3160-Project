@@ -1,12 +1,12 @@
 # CISC-3160-Project
 
-#Task
+# Task
 The task was to create an interpreter for a simple programming language where programs consist of assignments involving integer-type variables. The interpreter should:
 Detect Syntax Errors
 Report Uninitialized Variables
 Perform Assignments and Print Variable Values
 
-#Summary
+# Summary
 Lexer (Lexical Analyzer)
   Purpose: Tokenizes the input source code.
   Features: Recognizes identifiers, literals, operators, parentheses, assignment operators, and semicolons. Detects lexical errors like invalid numbers with leading zeros.
